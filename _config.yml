@@ -1,0 +1,9 @@
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+url: http://wxy44412890.github.com
+author: wxy44412890
+pygments: true
+safe: true
+paginate: 16
+auto: true
+
