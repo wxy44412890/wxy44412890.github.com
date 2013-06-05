@@ -3,11 +3,9 @@ title: My Link
 layout: page
 comments: yes
 ---
-        
-        
-## Daily
+<br/>
+### Daily
 ***
-
 * StartUp News <a href="http://news.dbanotes.net" target="_blank">http://news.dbanotes.net</a>
 * 知乎     <a href="http://zhihu.com/people/Cio_money" target="_blank">http://zhihu.com/people/Cio_money</a>
 * 新浪微博  <a href="http://t.sina.com.cn/ciomoney" target="_blank">http://t.sina.com.cn/ciomoney</a>
