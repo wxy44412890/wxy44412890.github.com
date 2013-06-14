@@ -48,10 +48,10 @@ comments: yes
 * Oasis Feng 		<a href="http://blog.oasisfeng.com" target="_blank">http://blog.oasisfeng.com</a>
 * 应宇辰 				<a href="http://blog.yegle.net" target="_blank">http://blog.yegle.net</a>
 * 道哥的黑板报(吴翰清) 	<a href="http://taosay.net" target="_blank">http://taosay.net</a>
-* MrToyy			<a href="http://mrtoyy.com" target="_blank">http://mrtoyy.com</a>
 
 <br/>
 ### Finance
 ***
-* 自由之路           <a href="http://blog.sina.com.cn/financialindependence" target="_blank">http://blog.sina.com.cn/financialindependence</a>
-* 坐着不动           <a href="http://blog.sina.com.cn/u/1830865357" target="_blank">http://blog.sina.com.cn/u/1830865357</a>
+* MrToyy			<a href="http://mrtoyy.com" target="_blank">http://mrtoyy.com</a>
+* 自由之路          	<a href="http://blog.sina.com.cn/financialindependence" target="_blank">http://blog.sina.com.cn/financialindependence</a>
+* 坐着不动           	<a href="http://blog.sina.com.cn/u/1830865357" target="_blank">http://blog.sina.com.cn/u/1830865357</a>
