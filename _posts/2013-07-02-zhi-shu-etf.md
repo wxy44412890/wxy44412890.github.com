@@ -8,44 +8,42 @@ tags: [ETF, 指数]
 
 <br/>
 
-<table class="table table-bordered table-striped table-condensed">
-	
-	<tr>
-		<td>所属公司</td>
-		<td>证券代码</td>
-		<td>证券简称</td>
-		<td>标的代码</td>
-		<td>标的简称</td>
+<table>
+
+<thead>
+	<tr class="header">
+		<th align="center">所属公司</th>
+		<th align="center">证券代码</th>
+		<th align="center">证券简称</th>
+		<th align="center">标的代码</th>
+		<th align="center">标的简称</th>
+	</tr>
+</thead>
+
+<tbody>
+	<tr class="odd">
+		<td align="center">华夏</td>
+		<td align="center">510050</td>
+		<td align="center">50ETF</td>
+		<td align="center">000016</td>
+		<td align="center">上证50</td>
 	</tr>
 	
-	<tr>
-		<td>华夏</td>
-		<td>510050</td>
-		<td>50ETF</td>
-		<td>000016</td>
-		<td>上证50</td>
+	<tr class="even">
+		<td align="center">华夏</td>
+		<td align="center">510660</td>
+		<td align="center">医药行业</td>
+		<td align="center">000037</td>
+		<td align="center">上证医药</td>
 	</tr>
 
-	<tr>
-		<td>华夏</td>
-		<td>510660</td>
-		<td>医药行业</td>
-		<td>000037</td>
-		<td>上证医药</td>
+	<tr classc="odd">
+		<td align="center">华夏</td>
+		<td align="center">510630</td>
+		<td align="center">消费行业</td>
+		<td align="center">000036</td>
+		<td align="center">上证消费</td>
 	</tr>
-
-	<tr>
-		<td>华夏</td>
-		<td>510630</td>
-		<td>消费行业</td>
-		<td>000036</td>
-		<td>上证消费</td>
-	</tr>
+</tbody>
 
 </table>
-
-
-
-证券|222
-:----|:----
-11111|22222
