@@ -47,5 +47,12 @@ tags: [ETF, 指数]
 			<td>N/A</td>
 			<td>纳斯达克100指数</td>
 		</tr>
+		<tr>
+			<td>招商</td>
+			<td>510150</td>
+			<td>消费ETF</td>
+			<td>000069</td>
+			<td>上证消费80</td>
+		</tr>
 	</tbody>
 </table>
