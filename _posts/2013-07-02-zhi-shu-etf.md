@@ -40,5 +40,12 @@ tags: [ETF, 指数]
 			<td>000036</td>
 			<td>上证消费</td>
 		</tr>
+		<tr>
+			<td>国泰</td>
+			<td>513100</td>
+			<td>纳指ETF</td>
+			<td>N/A</td>
+			<td>纳斯达克100指数</td>
+		</tr>
 	</tbody>
 </table>
