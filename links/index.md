@@ -27,16 +27,17 @@ comments: yes
 <br/>
 ### Rail
 ***
-* 上海轨道交通俱乐部 	<a href="http://club.metrofans.sh.cn" target="_blank">http://club.metrofans.sh.cn</a>
-* 地铁族 				<a href="http://www.ditiezu.com" target="_blank">http://www.ditiezu.com</a>
+* 地铁族 		    <a href="http://www.ditiezu.com" target="_blank">http://www.ditiezu.com</a>
 * 钱塘交通论坛 		<a href="http://q.52bus.com" target="_blank">http://q.52bus.com</a>
 * 海子铁路网社区 		<a href="http://bbs.hasea.com" target="_blank">http://bbs.hasea.com</a>
 * 铁路在线论坛 		<a href="http://bbs.ourail.com" target="_blank">http://bbs.ourail.com</a>
+* 非人狂想屋   	    <a href="http://www.trainnets.com" target="_blank">http://www.trainnets.com</a>
+* 上海轨道交通俱乐部 	<a href="http://club.metrofans.sh.cn" target="_blank">http://club.metrofans.sh.cn</a>
 * 高清铁路 			<a href="http://www.railhd.com/portal.php" target="_blank">http://www.railhd.com/portal.php</a>
 * 中国铁路车迷网 		<a href="http://fans.railcn.net" target="_blank">http://fans.railcn.net</a>
 * 人民铁道网 			<a href="http://www.peoplerail.com" target="_blank">http://www.peoplerail.com</a>
 * 铁道论坛 			<a href="http://bbs.railcn.net" target="_blank">http://bbs.railcn.net</a>
-* 铁道网 				<a href="http://www.railcn.net" target="_blank">http://www.railcn.net</a>
+* 铁道网 			<a href="http://www.railcn.net" target="_blank">http://www.railcn.net</a>
 
 <br/>
 ### People
